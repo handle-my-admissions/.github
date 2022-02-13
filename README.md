@@ -20,9 +20,10 @@ It is a platform that can help high school candidates to manage their college ap
 </p>
 
 ## HIGH-LEVEL VIEW OF ARCHITECTURE
-<center>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/67834407/153741062-9bab87c1-a605-4a8a-80ac-760111d0a11a.png" />
-</center>
+</p>
 
 ## Tech Stack
 - ReactJS
