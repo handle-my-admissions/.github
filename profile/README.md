@@ -25,6 +25,9 @@ It is a platform that can help high school candidates to manage their college ap
   <img src="https://user-images.githubusercontent.com/67834407/153741062-9bab87c1-a605-4a8a-80ac-760111d0a11a.png" />
 </p>
 
+
+_to know more about the data flow & architecture, please refer to_ [Other Details](../README.md)
+
 ## Tech Stack
 - ReactJS
 - AntD (Ant Design)
