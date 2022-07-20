@@ -30,7 +30,7 @@ The very first reason was to reduce the costs of the solutions that our universi
 - Embedded calendars.
 - Different payment modes powered by Razorpay.
 
-## 😖 But, please help me to navigate through Repository!!
+## 😖 But, please help me to navigate through Repositories!!
 - 🏦```ap-admin``` : contains the web application(Front-End) which servers the "administrators" of the admission process.
 - 👩‍🎓```ap-student``` : It contains the web application(Front-End) which servers the "applicants" of the admission process.
 - 🚀```ap-lambdas``` : contains the lambda functions that is being residing over aws environment.
