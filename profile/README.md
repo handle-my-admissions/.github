@@ -56,7 +56,7 @@ There are plentty of them 🎊,
     * SQS
 
 <hr />
-<details open="open">
+<details>
   <summary> 📃 Detailed + High level architecture</summary>
     <p align="center">
         <img src="https://user-images.githubusercontent.com/67834407/153741053-0c85a994-dcfe-49a7-83e7-769d89d59b19.png " />
@@ -69,7 +69,7 @@ There are plentty of them 🎊,
 
 <hr/>
 
-<details open="open">
+<details>
   <summary> 📃 Flow chart </summary>
     <p align="center">
         <img src="https://user-images.githubusercontent.com/59203865/153623874-c63fd684-c51f-41e7-9e6d-f4a4acaa7345.png" />
