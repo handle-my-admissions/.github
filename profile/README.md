@@ -6,6 +6,8 @@
 </p>
 
 <hr/>
+Visit production links : [for admins](https://handle-my-admission-admin.web.app/ap-admin/) and [for applicants](https://handle-my-admissions.web.app/ap-student/)
+<hr/>
 
 ## 💥 Introduction
 
