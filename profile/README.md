@@ -1,13 +1,13 @@
-![Handle My Admission](./handle-my-admission.gif)
+![Handle My Admission](./hma.gif)
 
 <p align="center">
-<img src="https://img.shields.io/github/license/tejas-ladhani/devdost" />
+<img src="https://img.shields.io/github/license/admission-portal/admin-app" />
 <img src="https://img.shields.io/badge/Author-Tejas_Ladhani-yellow" />
 </p>
 
 <hr/>
 
-click here to visit deployments : [for admins]( https://handle-my-admission-admin.web.app/ap-admin/) and [for applicants](https://handle-my-admissions.web.app/ap-student/)
+click here to visit deployments : [for admins]( https://handle-my-admissions-admin.web.app/ap-admin/) and [for applicants](https://handle-my-admissions.web.app/ap-student/)
 
 <hr/>
 
@@ -35,13 +35,16 @@ The very first reason was to reduce the costs of the solutions that our universi
 - Different payment modes powered by Razorpay.
 
 ## 😖 But, please help me to navigate through Repositories!!
-- 🏦```ap-admin``` : contains the web application(Front-End) which servers the "administrators" of the admission process.
-- 👩‍🎓```ap-student``` : It contains the web application(Front-End) which servers the "applicants" of the admission process.
+- 🏦```admin-app``` : contains the web application(Front-End) which servers the "administrators" of the admission process.
+- 👩‍🎓```student-app``` : It contains the web application(Front-End) which servers the "applicants" of the admission process.
 - 🚀```ap-lambdas``` : contains the lambda functions that is being residing over aws environment.
+
+- 👩‍🎓```ap-student``` : (DEPRECATED, new TS version- student-app) contains JS version old codebase of student-app.
+- 🏦```ap-admin``` : (DEPRECATED, new TS version- admin-app) contains JS version old codebase of admin-app.
 
 ## 🛠️ Local development
 
-That's pretty easy. To ensure that you are able to install everything properly, we would recommend you to have <b>Git</b>, <b>Node</b> and <b>npm or yarn</b> installed.
+That's prety easy. To ensure that you are able to install everything properly, we would recommend you to have <b>Git</b>, <b>Node</b> and <b>npm or yarn</b> installed.
 
 For detailed installation refer to the individual repositories.
 
@@ -49,6 +52,7 @@ For detailed installation refer to the individual repositories.
 ## 🧰 Tools & technologies used ?
 There are plentty of them 🎊,
 - ReactJS
+- TypeScript
 - NodeJs & Python for lambdas/backend.
 - Amazon Web Services:
     * Lambda
@@ -87,4 +91,4 @@ There are plentty of them 🎊,
 
 ## 📜 LICENSE
 
-[AGPL 3.0 License](/LICENSE.txt)
+[MIT License](/LICENSE.txt)
