@@ -39,9 +39,6 @@ The very first reason was to reduce the costs of the solutions that our universi
 - 👩‍🎓```student-app``` : It contains the web application(Front-End) which servers the "applicants" of the admission process.
 - 🚀```ap-lambdas``` : contains the lambda functions that is being residing over aws environment.
 
-- 👩‍🎓```ap-student``` : (DEPRECATED, new TS version- student-app) contains JS version old codebase of student-app.
-- 🏦```ap-admin``` : (DEPRECATED, new TS version- admin-app) contains JS version old codebase of admin-app.
-
 ## 🛠️ Local development
 
 That's prety easy. To ensure that you are able to install everything properly, we would recommend you to have <b>Git</b>, <b>Node</b> and <b>npm or yarn</b> installed.
